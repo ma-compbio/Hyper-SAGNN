@@ -56,10 +56,12 @@ parser.add_argument('-k', '--window-size', type=int, default=10,
 If you want to cite our paper:
 
 ```
-@article{zhang2019hyper,
-  title={Hyper-SAGNN: a self-attention based graph neural network for hypergraphs},
-  author={Zhang, Ruochi and Zou, Yuesong and Ma, Jian},
-  journal={arXiv preprint arXiv:1911.02613},
-  year={2019}
+@inproceedings{
+zhang2020hypersagnn,
+title={Hyper-{SAGNN}: a self-attention based graph neural network for hypergraphs},
+author={Zhang, Ruochi and Zou, Yuesong and Ma, Jian},
+booktitle={International Conference on Learning Representations (ICLR)},
+year={2020}
 }
 ```
+
