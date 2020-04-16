@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b4c0d8d-2844-4af0-a5cc-2c31fa44df55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1OfYhjVlMDkH0uw1WvWXwj4fUHp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backup" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_performance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performance_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performance_plot/plot_performance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.plot_performance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4c0d8d-2844-4af0-a5cc-2c31fa44df55" name="Default Changelist" comment="" />
+      <created>1558053587625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558053587625</updated>
+      <workItem from="1558053588959" duration="15324000" />
+      <workItem from="1558122641682" duration="12409000" />
+      <workItem from="1558146875177" duration="10686000" />
+      <workItem from="1558224319702" duration="2379000" />
+      <workItem from="1558231164166" duration="970000" />
+      <workItem from="1558236598315" duration="3991000" />
+      <workItem from="1558244497026" duration="44286000" />
+      <workItem from="1558485526308" duration="5994000" />
+      <workItem from="1558494925008" duration="24186000" />
+      <workItem from="1558655532846" duration="51204000" />
+      <workItem from="1559086340641" duration="25142000" />
+      <workItem from="1559419421190" duration="547000" />
+      <workItem from="1560275175441" duration="3264000" />
+      <workItem from="1560478530429" duration="16650000" />
+      <workItem from="1560573095226" duration="2699000" />
+      <workItem from="1560576723749" duration="905000" />
+      <workItem from="1560626659330" duration="12193000" />
+      <workItem from="1560813006314" duration="10543000" />
+      <workItem from="1560997551007" duration="9799000" />
+      <workItem from="1561127207207" duration="1239000" />
+      <workItem from="1561319793617" duration="796000" />
+      <workItem from="1561346938922" duration="3109000" />
+      <workItem from="1561352719981" duration="6962000" />
+      <workItem from="1561516874929" duration="48038000" />
+      <workItem from="1561944445169" duration="118000" />
+      <workItem from="1561944618778" duration="7519000" />
+      <workItem from="1562022677737" duration="309000" />
+      <workItem from="1562023963146" duration="13072000" />
+      <workItem from="1562120124529" duration="48000" />
+      <workItem from="1562120272774" duration="297000" />
+      <workItem from="1562467506990" duration="14189000" />
+      <workItem from="1562694381605" duration="39673000" />
+      <workItem from="1562977952770" duration="19258000" />
+      <workItem from="1563079685550" duration="2159000" />
+      <workItem from="1563829814816" duration="2711000" />
+      <workItem from="1563940572392" duration="26828000" />
+      <workItem from="1564370244642" duration="1033000" />
+      <workItem from="1564406853917" duration="20265000" />
+      <workItem from="1564545177555" duration="61978000" />
+      <workItem from="1565194832383" duration="1374000" />
+      <workItem from="1565206149276" duration="3888000" />
+      <workItem from="1565226011921" duration="44279000" />
+      <workItem from="1565807295283" duration="512000" />
+      <workItem from="1565998096690" duration="23099000" />
+      <workItem from="1566419907537" duration="12095000" />
+      <workItem from="1566504256924" duration="37000" />
+      <workItem from="1566508998067" duration="2067000" />
+      <workItem from="1566565525889" duration="183000" />
+      <workItem from="1566565883261" duration="4986000" />
+      <workItem from="1566675467724" duration="8184000" />
+      <workItem from="1566871392233" duration="4550000" />
+      <workItem from="1566966286640" duration="46391000" />
+      <workItem from="1568069337244" duration="33698000" />
+      <workItem from="1568296344314" duration="3931000" />
+      <workItem from="1568515822850" duration="15000" />
+      <workItem from="1569016843044" duration="24092000" />
+      <workItem from="1569456658486" duration="188000" />
+      <workItem from="1569456875698" duration="3452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/performance_plot/plot_performance.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$plot_performance.coverage" NAME="plot_performance Coverage Results" MODIFIED="1561575681137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/performance_plot" />
+  </component>
+</project>
