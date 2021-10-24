@@ -251,6 +251,9 @@ def random_walk(args, num, hyperedge_list):
     p, q = args.p, args.q
     num_walks, walk_length, window_size = args.num_walks, args.walk_length, args.window_size
     # emb_save_path = '../embs/{}/p{}_q{}_r{}_l{}_k{}_i{}.embs'.format(args.data, p, q, num_walks, walk_length, window_size, iteration)
+    if not os.path.exists("../walks"):
+        os.mkdir("../walks")
+        
     if not os.path.exists("../walks/{}/".format(args.data)):
         os.mkdir("../walks/{}/".format(args.data))
     walks_save_path = '../walks/{}/p{}_q{}_r{}_l{}_walks.txt'.format(

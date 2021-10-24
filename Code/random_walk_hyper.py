@@ -443,6 +443,10 @@ def random_walk_hyper(args, node_list, hyperedge_list):
     num_walks, walk_length, window_size = args.num_walks, args.walk_length, args.window_size
     walks_save_path = '../walks/{}/p{}_q{}_r{}_l{}_hyper_walks.txt'.format(
         args.data, p, q, num_walks, walk_length)
+    
+    if not os.path.exists("../walks"):
+        os.mkdir("../walks")
+        
     if not os.path.exists("../walks/{}/".format(args.data)):
         os.mkdir("../walks/{}/".format(args.data))
     start = time.time()
