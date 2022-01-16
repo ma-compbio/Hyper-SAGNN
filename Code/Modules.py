@@ -439,7 +439,7 @@ class ScaledDotProductAttention(nn.Module):
                 result = result / (result.sum(dim=dim, keepdim=True) + 1e-13)
             else:
                 masked_vector = vector.masked_fill(
-                    (1 - mask).byte(), mask_fill_value)
+                    (1 - mask).bool(), mask_fill_value)
                 result = torch.nn.functional.softmax(masked_vector, dim=dim)
         return result
     
